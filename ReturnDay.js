@@ -20,3 +20,4 @@ function whatday(num) {
       default:
         return 'Wrong, please enter a number between 1 and 7';
     }
+}
